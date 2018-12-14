@@ -2,14 +2,12 @@
 
 revolution.py simulates the game
 
-Set:
+Initialize below parameters by creating revolution class object:
 Total number of players
 Percentage of players needed for the revolt to succeed,
 Percentage of players willing to revolt
 
-by creating revolution class object
-
-Functions below can be uded to modify certain parameters:
+Functions below are used to modify certain parameters:
 - set_force_revolution_possibility
 - set_frequency_deviation
 
