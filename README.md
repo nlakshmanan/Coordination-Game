@@ -8,6 +8,9 @@ Please see "Overthrowing the dictator.pdf" in the root directory for more inform
 
 Please see "report.pdf" in root directory for a more detailed anlaysis on the game using the simulation.
 
+Below image depicts an extensive representation form of the game using mass media.
+![Extensive representation of game in mass-media](https://github.com/nlakshmanan/Coordination-Game/blob/master/mass_media.png)
+
 Simulation:
 This github repository simulates the game. To use the simulation use "revolution" API in revolution.py.
 
