@@ -22,11 +22,12 @@ This github repository simulates the game. To use the simulation use "revolution
     Percentage of players willing to revolt
 
 (2) (Optional)Functions below are used to modify certain parameters:
-- set_force_revolution_possibility
-- set_frequency_deviation
+    - set_force_revolution_possibility
+    - set_frequency_deviation
 
 (3) Sample:
-r = revolution(1000,49,50)
-r.set_frequency_deviation(5)
-r.run()
-
+```
+    r = revolution(1000,49,50)
+    r.set_frequency_deviation(5)
+    r.run()
+ ```
